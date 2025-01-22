@@ -1,0 +1,33 @@
+{
+  "headers": ["ID Envío", "Fecha Envío", "Nombre Origen", "Dirección Origen", "Nombre Destino", "Dirección Destino", "ID Producto", "Descripción Producto", "Cantidad", "Peso (kg)", "Estado", "Fecha Entrega Estimada"],
+  "data": [
+    {
+      "ID Envío": "12345",
+      "Fecha Envío": "2025-01-22",
+      "Nombre Origen": "Almacén Central",
+      "Dirección Origen": "Av. Principal 123, Ciudad, País",
+      "Nombre Destino": "Sucursal Norte",
+      "Dirección Destino": "Calle Secundaria 456, Ciudad, País",
+      "ID Producto": "001",
+      "Descripción Producto": "Producto A",
+      "Cantidad": 10,
+      "Peso (kg)": 5.5,
+      "Estado": "En tránsito",
+      "Fecha Entrega Estimada": "2025-01-25"
+    },
+    {
+      "ID Envío": "12345",
+      "Fecha Envío": "2025-01-22",
+      "Nombre Origen": "Almacén Central",
+      "Dirección Origen": "Av. Principal 123, Ciudad, País",
+      "Nombre Destino": "Sucursal Norte",
+      "Dirección Destino": "Calle Secundaria 456, Ciudad, País",
+      "ID Producto": "002",
+      "Descripción Producto": "Producto B",
+      "Cantidad": 20,
+      "Peso (kg)": 3.2,
+      "Estado": "En tránsito",
+      "Fecha Entrega Estimada": "2025-01-25"
+    }
+  ]
+}
